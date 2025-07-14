@@ -4,3 +4,6 @@ class Hello {
         System.out.println("This is a simple Java program.");
     }
 }
+
+
+// Hello world code
