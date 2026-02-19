@@ -13,3 +13,6 @@ class Prog {
         System.out.println("Factorial of 5 is: " + fact);
     }
 }
+
+
+//Factorial Program
