@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Hello {
 
-    static{
+    static{ // static method
        int a = 10;
        int b = 20;
        int c = a + b;
